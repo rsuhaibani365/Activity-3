@@ -3,9 +3,8 @@ public class Calculator {
         int result = add(5, 10);
         System.out.println("Result: " + result);
     }
-
     public static int add(int a, int b) {
-        int sum = a + b
-        return sum;
+        int sum = a + b;  // added ; 
+        return sum; 
     }
 }
