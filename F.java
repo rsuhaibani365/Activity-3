@@ -1,5 +1,5 @@
 public class Square {
-    public static square(int number) {
+    public int square(int number) {
         return number * number;
     }
 }
