@@ -5,7 +5,7 @@ public class Calculator {
     }
 
     public static int add(int a, int b) {
-        int sum = a + b
+        int sum = a + b; // FIX: missing semicolon at the end of the statement
         return sum;
     }
 }
